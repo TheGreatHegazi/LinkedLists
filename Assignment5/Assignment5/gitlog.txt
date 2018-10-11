@@ -1,0 +1,23 @@
+commit 54bdfda4dcfc7bfa076605cf255b5373a91a1c4b
+Author: Ahmed HEGAZI <ahegaz@linux.CS.McGill.CA>
+Date:   Sat Nov 25 20:03:56 2017 -0500
+
+     fixed a but in prettyPrint function that displayed the numbers in a wierd manner
+
+commit 87964f4f8adc2afaf40f2049d622d56def3a88da
+Author: Ahmed HEGAZI <ahegaz@linux.CS.McGill.CA>
+Date:   Sat Nov 25 20:02:51 2017 -0500
+
+    fixed a bug that causes the list.h file to not be called when compiled by the make file
+
+commit eed65ec2f30c2b64f5e8905f54d6b9f5fcd03216
+Author: Ahmed HEGAZI <ahegaz@linux.CS.McGill.CA>
+Date:   Sat Nov 25 20:01:40 2017 -0500
+
+     fixed a bug that caused the make file to delet the main.c when called
+
+commit 427ab8e67dc5d78a61605a13ad32fbc1e3d75eb2
+Author: Ahmed HEGAZI <ahegaz@linux.CS.McGill.CA>
+Date:   Sat Nov 25 19:59:15 2017 -0500
+
+     fixing segmentation fault error in main.c
